@@ -26,8 +26,3 @@ tab so that they can revisit the tab again.
 - Click on Load Unpacked and then select the folder
 
 
-
-## Screenshots
-
-![App Screenshot](ss1.png)
-![App Screenshot](ss2.png)
